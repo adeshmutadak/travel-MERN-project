@@ -9,6 +9,8 @@ import ToursDetails from "../pages/ToursDetails";
 import ThankYou from "../pages/ThankYou";
 import NotFound from "../pages/NotFound";
 import About from "../pages/About";
+import Contact from "../componets/Contact/Contact";
+import Service from "../componets/service/Service";
 // import Home from "../pages/Home";
 const Routers = () => {
   return (
@@ -21,6 +23,8 @@ const Routers = () => {
         <Route path="/login" element={<Login />} />
         <Route path="/about" element={<About />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/contact-us" element={<Contact />} />
+        <Route path="/services" element={<Service />} />
         <Route path="/thank-you" element={<ThankYou />} />
         <Route path="/tours/:id" element={<ToursDetails />} />
         <Route path="/tours/search" element={<SearchResultList />} />
