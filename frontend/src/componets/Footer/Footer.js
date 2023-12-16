@@ -9,8 +9,8 @@ const quick__links = [
     display: "Home",
   },
   {
-    path: "/login",
-    display: "Login",
+    path: "/tours",
+    display: "Explore More",
   },
   {
     path: "/tours",

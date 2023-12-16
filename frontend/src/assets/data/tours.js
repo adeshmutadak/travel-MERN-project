@@ -15,7 +15,7 @@ const tours = [
     address: "Somewhere",
     price: 99,
     maxGroupSize: 10,
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, tempore?",
+    desc: "Immerse yourself in the iconic charm of Westminster Bridge, where the historic River Thames flows beneath and the regal Big Ben and Palace of Westminster stand proudly, creating a picturesque London landmark.",
     reviews: [
       {
         name: "jhon doe",
@@ -34,7 +34,7 @@ const tours = [
     address: "Somewhere",
     price: 99,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Immerse yourself in the iconic charm of Westminster Bridge, where the historic River Thames flows beneath and the regal Big Ben and Palace of Westminster stand proudly, creating a picturesque London landmark.",
     reviews: [
       {
         name: "jhon doe",
@@ -137,7 +137,7 @@ const tours = [
   },
   {
     id: "08",
-    title: "Snowy Mountains, Thailand",
+    title: "Amsterdam",
     city: "Thailand",
     distance: 500,
     address: "Somewhere",

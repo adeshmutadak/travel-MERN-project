@@ -11,7 +11,7 @@ const Testmonial = () => {
     autoPlay: true,
     speed: 1000,
     swipeToSilde: true,
-    autoPlaySpeed: 2000,
+    autoPlaySpeed: 1000,
     slidesToShow: 3,
     responsive: [
       {

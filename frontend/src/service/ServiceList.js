@@ -8,17 +8,17 @@ const serviceData = [
   {
     imgUrl: weatherImg,
     title: "Calculate Weather",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, quisquam.",
+    desc: "Elevate your travel experience by staying ahead of the weather curve with our real-time weather updates.",
   },
   {
     imgUrl: guideImg,
     title: "Best Tour Guide",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, quisquam.",
+    desc: "Embark on journeys with tour guides, ensuring every step of your adventure is guided by, knowledge.",
   },
   {
     imgUrl: customization,
     title: "Customization",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, quisquam.",
+    desc: "Discover the world's wonders with the best tour guides by your side, offering personalized experiences .",
   },
 ];
 const ServiceList = () => {

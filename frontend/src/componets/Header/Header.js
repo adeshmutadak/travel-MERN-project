@@ -85,6 +85,7 @@ const Header = () => {
                         style={{
                           fontSize: "large",
                           textDecoration: "underline",
+                          textTransform: "uppercase",
                         }}
                       >
                         {user.username}
